@@ -1,0 +1,24 @@
+#sticky-footer
+{
+    position: fixed;
+    left: 0;
+    bottom: 0;
+}
+h1{
+    font-family: 'Kumbh Sans', sans-serif;
+    color: rgb(68, 79, 79)  
+  }
+  a{
+      color: rgb(79, 76, 76);
+  }
+  h2{
+    font-family: 'Kumbh Sans', sans-serif;
+}
+h4
+{
+color: rgb(38, 32, 32);
+}
+h6
+{
+color: rgb(65, 63, 63);
+}
